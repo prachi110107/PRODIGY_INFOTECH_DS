@@ -6,8 +6,6 @@
 
 Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes toward different topics and brands.
 
----
-
 ## Dataset
 
 Twitter Entity Sentiment Analysis Dataset
