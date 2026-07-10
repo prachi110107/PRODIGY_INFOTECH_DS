@@ -101,15 +101,12 @@ Task-03
 │── README.md
 │── requirements.txt
 └── .gitignore
-```
 
----
+```
 
 ## 🎯 Result
 
 Successfully built a Decision Tree Classifier capable of predicting whether a customer is likely to purchase a product or service based on demographic and behavioral attributes.
-
----
 
 ### 👩‍💻 Internship
 
