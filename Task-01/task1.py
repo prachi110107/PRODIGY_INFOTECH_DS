@@ -156,4 +156,4 @@ plt.savefig("BoxPlot.png", dpi=300)
 
 plt.show()
 
-print("🎉 Task 01 completed successfully!")
+print("🎉 Task 01 completed successfully!") 
